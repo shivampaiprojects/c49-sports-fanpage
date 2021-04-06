@@ -1,0 +1,24 @@
+
+body{
+  background-color:#ffcccc;
+  color : black;
+  font-family: Courier, monospace;
+} 
+h1
+{
+  color: red;
+  text-align:center;
+}
+img
+{
+  text-align : center;
+  height: 150px;
+  width : 150px;
+}
+.image
+{
+  text-align:center;
+ 
+}
+
+
